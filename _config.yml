@@ -28,7 +28,7 @@ twitter_username: rheotaxis
 github_username:  rheotaxis
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
