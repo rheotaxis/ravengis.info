@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="home">
+  {%- if page.home_title -%}
+    <h3 class="page-heading">{{ page.home_title }}</h3>
+  {%- endif -%}
+
+  {{ content }}
+
+  <a name="post-list-start"></a><hr>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+    {%- for post in site.posts -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+            {{ post.excerpt }}
+      </li>
+    {%- endfor -%}
+    </ul>
+</div>
