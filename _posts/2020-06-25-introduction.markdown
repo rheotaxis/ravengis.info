@@ -15,17 +15,16 @@ popular and vibrant social bookmarking site.
 
 Some quotes from the book will remind us what **del.icio.us** was
 before talking about the **[pinboard.in](https://pinboard.in)** bookmarking service available today.
-The author states in the books introduction:
+The author states in the book's introduction:
 
 > Joshua Schachter invited me to try out del.icio.us in the latter half of 2003 (p. xv)
 
-Until I read this book about using it,
-I just thought **del.icio.us** was a weird domain name, but after trying it
+Until I read this book, I just thought **del.icio.us** was a weird domain name, but after trying it
 I agreed with the author's next quote.
 
 > Joshua's clean and well-considered incremental improvements got me hooked (p. xv)
 
-This book's readers gained a better understanding of how web developers
+The book's readers gained a better understanding of how web developers
 were building the "Web 2.0" at that time.
 
 > Although the phrase "Web 2.0" has reached a cringe-worthy critical mass...
@@ -38,7 +37,7 @@ I quickly learned so much more about open APIs, RSS and JSON feeds.
 
 > Convenient bookmarklets, XML data feeds, and the del.icio.us API...made...
 > the service frictionless -- and yet, counter-intuitively, these things
-> made the site incredibly sticky. (p xv)
+> made the site incredibly sticky. (p. xv)
 
 So, *Hacking del.icio.us* gave me a new appreciation for using
 JSON to build dynamic web content based upon data supplied from dynamic
@@ -47,7 +46,7 @@ data feeds, as well as learning all about social bookmarking and how
 
 > When Joshua introduced tagging features, the powers of social bookmarking really bloomed...
 > del.icio.us morphed into a powerful hub for the aggregation and annotation
-> of resources on the Web, filtered by the valuable attentions of real people. (p xv)
+> of resources on the Web, filtered by the valuable attentions of real people. (p. xv)
 
 The book itself offered so much more:
 * clear examples of using CSS to improve page presentation;
@@ -57,7 +56,7 @@ The book itself offered so much more:
 * and, lots of ideas for mashups using other web services.
 
 > del.icio.us...encouraged the growth of a rich ecosystem of Web- and
-> desktop-based tools for managing, enhancing, and analyzing social bookmarks. (p xv)
+> desktop-based tools for managing, enhancing, and analyzing social bookmarks. (p. xv)
 
 ### Why del.icio.us disappeared ###
 
@@ -106,7 +105,7 @@ you will need to sign up for an account and pay a subscription fee. You can do s
 
   [https://pinboard.in](https://pinboard.in)
 
-In future blog posts, I plan to cover more details about Pinboard and adapt sample code from the *Hacking del.icio.us* book for **Pinboard**.
+In future blog posts, I plan to cover more details about **Pinboard** and adapt sample code from the *Hacking del.icio.us* book for it.
 
 
 #### Footnotes ####

@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is some kind of puzzle?
+Welcome to my new blog about using Jekyll for JAM stack web development, among other things, but mostly other things?
