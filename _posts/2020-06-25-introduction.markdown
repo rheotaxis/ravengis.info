@@ -87,7 +87,7 @@ which one could argue is actually better in the long run. Maciej says:
 
 ### Loving Pinboard Today ###
 
-Can we ever love **Pinboard** was much as we loved **del.icio.us**? Yes! and there are so many reasons why. You should take a look for yourself to answer that question. **Pinboard** is a very close fit for people who used **del.icio.us** way back when.
+Can we ever love **Pinboard** as much as we loved **del.icio.us**? Yes! and there are so many reasons why. You should take a look for yourself to answer that question. **Pinboard** is a very close fit for people who used **del.icio.us** way back when.
 You can get a visual impression of its interface by going to its list of popular or most recent public bookmarks posted by its users.
 
   [https://pinboard.in/popular/](https://pinboard.in/popular/)
