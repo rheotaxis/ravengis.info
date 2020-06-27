@@ -86,11 +86,10 @@ which one could argue is actually better in the long run. Maciej says:
 > Because **Pinboard** is fully supported by user payments,
 > the site will never show ads, and I will never share user data with third parties.
 
-### Is Pinboard better? ###
+### Loving Pinboard Today ###
 
-**Pinboard** is a very close fit for people who used **del.icio.us** way back when. You can
-get a visual impression of its interface by going to its list of popular or
-most recent public bookmarks posted by its users.
+Can we ever love **Pinboard** was much as we loved **del.icio.us**? Yes! and there are so many reasons why. You should take a look for yourself to answer that question. **Pinboard** is a very close fit for people who used **del.icio.us** way back when.
+You can get a visual impression of its interface by going to its list of popular or most recent public bookmarks posted by its users.
 
   [https://pinboard.in/popular/](https://pinboard.in/popular/)
 
@@ -99,8 +98,15 @@ most recent public bookmarks posted by its users.
 ![Pinboard UI](/assets/2020_06_26-pinboard-popular.png)
 
 These links and some other pages are available to everyone. You don't need an account
-to view them. However, if you want to enjoy the full benefits of what **Pinboard** offers,
-you will need to sign up for an account and pay a subscription fee.
+to view them. Take some time and click on the tags, user names, and other links on these pages, and
+you may start to see what **Pinboard** can offer.
+
+However, if you want to enjoy the full benefits of what **Pinboard** offers,
+you will need to sign up for an account and pay a subscription fee. You can do so at the following URL.
+
+  [https://pinboard.in](https://pinboard.in)
+
+In future blog posts, I plan to cover more details about Pinboard and adapt sample code from the *Hacking del.icio.us* book for **Pinboard**.
 
 
 #### Footnotes ####
