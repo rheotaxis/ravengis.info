@@ -19,6 +19,7 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    {% include hyvor-comments.html %}
   </div>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
