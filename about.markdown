@@ -3,10 +3,24 @@ layout: default
 title: About
 permalink: /about/
 ---
-### Whom Is This Blog for? ###
+## Web Development Innovation ##
 
-I decided to write this blog for people using **[Jekyll](https://jekyllrb.com/)**
-for making a blog, and who may be
+It's time to start using Elixir and Phoenix to develop new web projects. Rebuilding prior examples is one way to learn how.
+
+## Who wants to know? ##
+
+Anyone curious about re-implementing prior projects (PHP, Javascript, Pyton) using today's frameworks (especially Elixir, Phoenix, and Ecto).
+
+## Books ##
+
+TL;DR
+
+I will review books I have read/reading, and include my comments and attempts at using examples from the books.
+
+### Hacking del.icio.us ###
+
+I first started this blog for people using **[Jekyll](https://jekyllrb.com/)**,
+a static web generator, and who may be
 **[pinboard.in](https://pinboard.in)** users too.
 Along the way, I will try to incorporate some
 of the examples from the book *Hacking del.icio.us* by Leslie M. Orchard, 2006,
@@ -26,7 +40,7 @@ JavaScript is much improved and more widely used, so these examples may need
 special attention.
 Finally, we will have to adapt to the APIs available today.
 
-### What's in This Blog? ###
+### The book about bookmarking ###
 
 The book *Hacking del.icio.us* was divided into three parts, proceeding
 from an overview of the bookmarking service, to programming examples,

@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome to my new blog about using Jekyll for JAM stack web development, among other things, but mostly other things?
+Just a blog about learning Elixir and Phoenix, and using instead of PHP, JavaScript, or other stuff.
