@@ -22,7 +22,26 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-{% include tweet_AOC.html %}
+And here is Elixir
+{% highlight elixir %}
+defmodule Datura.Coordinate do
+	alias __MODULE__
+
+	@enforce_keys [:row, :col]
+	defstruct [:row,:col]
+
+	@board_range 1..10
+
+	def new(row, col) when row in (@board_range) and col in (@board_range), do:
+		{:ok, %Coordinate{row: row, col: col}}
+
+	def new(_row, _col), do:
+		{:error, :invalid_coordinate}
+
+end
+{% endhighlight %}
+
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
