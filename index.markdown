@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Just a blog about learning Elixir and Phoenix, and using instead of PHP, JavaScript, or other stuff.
+Building a JAM stack using Elixir, Phoenix, Jekyll, and JavaScript.
