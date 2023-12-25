@@ -28,6 +28,12 @@ Here is the current signature:
   bool node_server<t_payload_net_handler>::block_host(epee::net_utils::network_address addr, time_t seconds, bool add_only)
 ~~~
 
+The three parameters to this method are:
+
+- network address (IPV4 or IPV6?)
+- time interval measured in seconds
+- True/False add_only? (default is ?)
+
 The implementation seems to go like this:
 
 - set time limit, but not above maximum
