@@ -121,4 +121,7 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.6.3
+  2.6.3
+
+RUBY version
+  3.3.7
